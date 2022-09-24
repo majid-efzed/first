@@ -5,3 +5,4 @@ Repo ini dipakai sebagai latihan webdev FE.
 Sudah belajar tentang basic HTML dan CSS (sekarang lagi belajar tentang Grid).
 
 Saya berhasil melakukan git commit dari local.
+Melakukan yang kedua kalinya.
